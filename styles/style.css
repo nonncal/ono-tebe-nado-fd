@@ -272,6 +272,7 @@
   grid-template-columns: repeat(3, 1fr);
   justify-content: space-between;
   padding: 0px 50px;
+  height: 180px;
 }
 
 .footer__menu-list {
