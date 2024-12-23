@@ -3,7 +3,7 @@
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
   margin-bottom: 45px;
-  padding: 50px;
+  padding:95px 50px 50px;
 }
 
 .header__links-list {
