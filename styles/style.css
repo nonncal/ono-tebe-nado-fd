@@ -32,13 +32,16 @@
   height: 105px;
 }
 
-.header__address {
-  justify-self: end;
+.address {
   max-width: 240px;
   font-weight: 400;
   font-size: 18px;
   font-style: normal;
   line-height: 24.3px;
+}
+
+.header__address {
+  justify-self: end;
 }
 
 .cover {
@@ -283,10 +286,6 @@
 
 .footer__address {
   justify-self: left;
-  font-weight: 400;
-  font-size: 18px;
-  font-style: normal;
-  line-height: 24.3px;
 }
 
 
